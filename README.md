@@ -5,11 +5,11 @@
 
 <p align="left">-👋 Hi, I’m Priyanshu Mallick<br>- 📚 I'm currently learning c language.<br>- ⚡ In my free time I like to play video games.</p>
 
-###
+---
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+---
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
