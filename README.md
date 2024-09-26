@@ -32,10 +32,11 @@
 
 <img src="https://raw.githubusercontent.com/Priyanshu85862/Priyanshu85862/output/snake.svg" alt="Snake animation" />
 
+
 ---
-#### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><b>Thank You for Visiting My Profile!</b></em>
+
+
+ #### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><strong>Thank You for Visiting My Profile!</strong></em>
 
   <div id="header" align="center">
   <img src="https://visitcount.itsvg.in/api?id=Priyanshu85862&style=for-the-badge&color=blue" alt=""/>
-</div>
-</div>
