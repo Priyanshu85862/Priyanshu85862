@@ -36,8 +36,10 @@
 
 ---
 
-
- #### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><strong>Thank You for Visiting My Profile!</strong></em>
-
-  <div id="header" align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Priyanshu85862&style=for-the-badge&color=blue" alt=""/>
+ <h3 align="center">
+   <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><strong>Thank You for Visiting My Profile!</strong></em>
+</h3> 
+     
+ <div id="header" align="center">
+     <img src="https://visitcount.itsvg.in/api?id=Priyanshu85862&style=for-the-badge&color=blue" alt=""/>
+ </div>
