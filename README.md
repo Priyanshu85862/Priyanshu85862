@@ -1,39 +1,18 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Priyanshu+Mallick!;" />
-</h1>
-
-## 👩‍💻 About Me :
--👋 Hi, I’m Priyanshu Mallick<br>- 📚 I'm currently learning c language.<br>- ⚡ In my free time I like to play video games.
-
-## 🛠 Language and tools:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-## 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Priyanshu85862&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu85862&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu85862&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+# 💫 About Me:
+👋 Hi, I’m Priyanshu Mallick<br><br>🎓 MCA Student | Aspiring Software Developer<br><br>💻 Passionate about programming, learning new languages, and mastering tools to build real-world solutions.<br><br>🌱 I’m currently focused on enhancing my skills in  Python and C<br><br>🚀 I am a quick learner who enjoys solving problems and tackling new challenges.
 
 
-## 📈 My Contributions:
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Priyanshu85862&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu85862&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu85862&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://raw.githubusercontent.com/Priyanshu85862/Priyanshu85862/output/snake.svg" alt="Snake animation" />
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Priyanshu85862&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Priyanshu85862&icon=0&color=0)](https://visitcount.itsvg.in)
 
- <h3 align="center">
-   <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><strong>Thank You for Visiting My Profile!</strong></em>
-</h3> 
-     
- <div id="header" align="center">
-     <img src="https://visitcount.itsvg.in/api?id=Priyanshu85862&style=for-the-badge&color=blue" alt=""/>
- </div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
