@@ -1,4 +1,3 @@
-💫 About Me:
 # 💫 About Me:
 Hey there! I'm Priyanshu 🚀<br>🧩 Solving problems with Data & ML<br>💡 Exploring Python, Pandas, NumPy & MySQL<br>🎯 MCA student with a sharp eye for insights<br>📈 On a journey to become a Data Scientist<br>🎮 Fun fact: I love to play games in my free time!
 
